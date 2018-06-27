@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6688ED</color>
+    <color name="colorPrimaryDark">#6688ED</color>
+    <color name="colorAccent">#6688ED</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red">#ffd50924</color>
+    <color name="pink">#F9909E</color>
+    <color name="gray">#22888888</color>
+    <color name="tab_gray">#A1B0C2</color>
+    <color name="lightGray">#cdcdcd</color>
+    <color name="color_58bbff">#58bbff</color>
+    <color name="lightlightGray">#f1f1f1</color>
+    <color name="etHintColor">#c3c2c3</color>
+    <color name="deepGray">#88888888</color>
+    <color name="blue">#0060B9</color>
+    <color name="wathet">#ff3eaffd</color>
+    <color name="lightBlue">#FF7CC8FC</color>
+    <color name="actionBlue">#004C96</color>
+    <color name="green">#18B160</color>
+    <color name="black">#000000</color>
+    <color name="color_313131">#313131</color>
+    <color name="transparent">#00000000</color>
+    <color name="IndianRed">#ffff6a6a</color>
+    <color name="orange">#FF6D3D</color>
+    <color name="color_ffda98">#ffda98</color>
+    <color name="color_ff8a00">#ff8a00</color>
+    <color name="deep_orange">#FF9817</color>
+    <color name="bg_page">#F4EADC</color>
+    <color name="hintcolor">#B2AA9E</color>
+    <color name="maincolor">#E94643</color>
+    <color name="graytext">#ababab</color>
+    <color name="ghostWhite">#F8F8FF</color>
+    <color name="redPackageGray">#FFB4B4B4</color>
+    <color name="titleBgLightRed">#FFFF7A8B</color>
+    <color name="filtrateGray">#EAEAEA</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="activity_bg">#F8EDED</color>
+    <color name="color_d9edf7">#d9edf7</color>
+
+    <!-- gesture -->
+    <color name="gesture_background">#ff303237</color>
+    <color name="color_hei_8">#00000000</color>
+
+    <drawable name="trans">@color/color_hei_8</drawable>
+    <!-- gesture -->
+</resources>
