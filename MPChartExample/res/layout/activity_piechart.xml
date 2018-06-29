@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="?attr/colorPrimary"
-        app:title="存储定活比排名"
+        app:title="全省各地区余额占比"
         app:titleTextColor="@color/white"
         app:navigationIcon="@drawable/ic_arrow_back_white_24dp"
         >

@@ -33,7 +33,7 @@ public class MainActivity extends Activity implements OnItemClickListener {
 
         ArrayList<ContentItem> objects = new ArrayList<ContentItem>();
         objects.add(new ContentItem("折线图", "余额增量30日明细"));
-        objects.add(new ContentItem("饼状图", "存储定活比排名"));
+        objects.add(new ContentItem("饼状图", "全省各地区余额占比"));
 
         MyAdapter adapter = new MyAdapter(this, objects);
 
